@@ -11,7 +11,8 @@ def swap(x,y):
     return y,x
 
 result = swap(3,4)
-print(result)
+for r in result:
+    print(r)
 
 
 
