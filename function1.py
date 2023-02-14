@@ -5,6 +5,7 @@ def times(a,b):
 
 #함수호출
 print(times(3,4))
+print(times(3,4))
 
 #함수정의
 def swap(x,y):
